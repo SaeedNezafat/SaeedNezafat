@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me
 
-🚀 Senior Front-End Developer with **5+ years of experience** building scalable web applications, marketplaces and admin panels.
+🚀 Senior Front-End Engineer with **5+ years of experience** building scalable web applications, marketplaces and admin panels.
 
 I focus on building **high-performance frontend systems** using modern frameworks and **clean architecture principles**.
 
